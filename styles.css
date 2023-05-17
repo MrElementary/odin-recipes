@@ -1,0 +1,12 @@
+html {
+	font-family: serif, sans-serif;
+	font-style: italic;
+}
+
+img {
+	height: auto;
+	width: 35%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
